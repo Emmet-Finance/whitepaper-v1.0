@@ -6,7 +6,7 @@ The initial version of the project's whitepaper - WIP.
 
 ### [0. Abstract](./chapters/0.Abstract.md)
 The TL;DR of the whitepaper introduces the purpose of $Emmet.Finance$, and outlines the major problems it solves as well as highlights the benefits the project has in comparison with the competition.
-### 1. Introduction
+### [1. Introduction](./chapters/1.Introduction.md)
 Concept of the token bridges, their significance and the motivation behind the $Emmet.Finance$'s goals.
 ### 2. Problem Statement
 Articulation of the problems and limitations of the existing solutions and why a new bridge is a necessity.
