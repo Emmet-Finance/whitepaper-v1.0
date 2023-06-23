@@ -1,6 +1,6 @@
 # Whitepaper-v1.0
 
-The first iteration of the project's whitepaper which is still a WIP (work in progress). As the project develops, this whitepaper may target new pain points, suggest better solutions and increase complexity. If you find any inconsistencies, missing points, or other constructive suggestions, please, feel free to let us know. Your opinion is important to us.
+The first iteration of the project's whitepaper is still a WIP (work in progress). As the project develops, this whitepaper may target new pain points, suggest better solutions and increase complexity. If you find any inconsistencies, missing points, or other constructive suggestions, please, feel free to let us know. Your opinion is important to us.
 
 ## Contents
 
@@ -10,7 +10,7 @@ The TL;DR of the whitepaper introduces the purpose of $Emmet.Finance$, and outli
 Concept of the token bridges, their significance, and the motivation behind the $Emmet.Finance$'s goals.
 ### [2. Problem Statement](./chapters/2.ProblemStatement.md)
 Articulation of the problems and limitations of the existing solutions and why a new bridge is a necessity.
-### 3. Technical Overview
+### [3. Technical Overview](./chapters/3.TechnicalOverview.md)
 Discussion of the underlying technology, protocols, and mechanisms facilitating the seamless transfer of tokens between chains.
 ### 4. Architecture and Design
 Description of the bridge modules, components, and their interaction.
