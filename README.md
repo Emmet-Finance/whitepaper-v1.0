@@ -14,7 +14,7 @@ Articulates the problems and limitations of the existing solutions and why a new
 Discussion of the underlying technology, protocols, and mechanisms facilitating the seamless transfer of tokens between chains.
 ### [4. Architecture and Design](./chapters/4.ArchitectureAndDesign.md)
 Description of the bridge modules, components, and their interaction.
-### 5. Operations and Roles
+### [5. Operations and Roles](./chapters/5.OperationsAndRoles.md)
 A step-by-step token transfer description including the `validator`, `oracle`, and `user` role involvement.
 ### 6. Security
 In this part, we outline the anticipated security risks, vulnerabilities, exploits, and attacks alongside their mitigation strategies.
