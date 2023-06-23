@@ -12,7 +12,7 @@ Introduces the concept of the token bridges, their significance, and the motivat
 Articulates the problems and limitations of the existing solutions and why a new bridge is a necessity.
 ### [3. Technical Overview](./chapters/3.TechnicalOverview.md)
 Discussion of the underlying technology, protocols, and mechanisms facilitating the seamless transfer of tokens between chains.
-### 4. Architecture and Design
+### [4. Architecture and Design](./chapters/4.ArchitectureAndDesign.md)
 Description of the bridge modules, components, and their interaction.
 ### 5. Operations and Roles
 A step-by-step token transfer description including the `validator`, `oracle`, and `user` role involvement.
