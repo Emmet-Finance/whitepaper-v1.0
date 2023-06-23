@@ -16,7 +16,7 @@ Discussion of the underlying technology, protocols, and mechanisms facilitating 
 Description of the bridge modules, components, and their interaction.
 ### [5. Operations and Roles](./chapters/5.OperationsAndRoles.md)
 A step-by-step token transfer description including the `user`, `relay-validator`, `oracle`, `Emmet.Team`, and `Emmet.DAO` role involvement.
-### 6. Security
+### [6. Security](./chapters/6.Security.md)
 In this part, we outline the anticipated security risks, vulnerabilities, exploits, and attacks alongside their mitigation strategies.
 ### 7. Governance and Tokenomics
 Description of the $Emmet.Finance$'s tokenomics, including the token utility and distribution as well as the governance and the future development decision-making procedure.
