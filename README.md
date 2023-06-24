@@ -15,7 +15,7 @@ Discussion of the underlying technology, protocols, and mechanisms facilitating 
 ### [4. Architecture and Design](./chapters/4.ArchitectureAndDesign.md)
 Description of the bridge modules, components, and their interaction.
 ### [5. Operations and Roles](./chapters/5.OperationsAndRoles.md)
-A step-by-step token transfer description including the `user`, `relay-validator`, `oracle`, `Emmet.Team`, and `Emmet.DAO` role involvement.
+A step-by-step token transfer description including the `User`, `Relay-Validator`, `Price-Oracle`, `Emmet.Team`, and `Emmet.DAO` role involvement.
 ### [6. Security](./chapters/6.Security.md)
 In this part, we outline the anticipated security risks, vulnerabilities, exploits, and attacks alongside their mitigation strategies.
 ### [7. Governance and Tokenomics](./chapters/7.GovernanceAndTokenomics.md)
