@@ -18,7 +18,7 @@ Description of the bridge modules, components, and their interaction.
 A step-by-step token transfer description including the `user`, `relay-validator`, `oracle`, `Emmet.Team`, and `Emmet.DAO` role involvement.
 ### [6. Security](./chapters/6.Security.md)
 In this part, we outline the anticipated security risks, vulnerabilities, exploits, and attacks alongside their mitigation strategies.
-### 7. Governance and Tokenomics
+### [7. Governance and Tokenomics](./chapters/7.GovernanceAndTokenomics.md)
 Description of the $Emmet.Finance$'s tokenomics, including the token utility and distribution as well as the governance and the future development decision-making procedure.
 ### 8. Application Scenarios and Use Cases
 Practical bridge application scenarios and the benefits the bridge offers to users and businesses.
