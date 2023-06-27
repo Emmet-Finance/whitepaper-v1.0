@@ -22,9 +22,7 @@ In this part, we outline the anticipated security risks, vulnerabilities, exploi
 Description of the $Emmet.Finance$'s tokenomics, including the token utility and distribution as well as the governance and the future development decision-making procedure.
 ### [8. Application Scenarios and Use Cases](./chapters/8.ApplicationScenarios.md)
 Practical bridge application scenarios and the benefits the bridge offers to users and businesses.
-### 9. Roadmap
-In this part, we outline the timeline of the deliverables and milestones including the new features, enhancements, or integrations.
-### 10. Risks and Challenges
+### 9. Risks and Challenges
 Here we speak about the potential risks, obstacles, and mitigation strategies.
-### 11. Conclusion
+### 10. Conclusion
 A brief summary of the present paper reiterating $Emmet.Finance$'s goals, and objectives towards bringing additional value to the crypto communities.
