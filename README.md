@@ -24,5 +24,5 @@ Description of the $Emmet.Finance$'s tokenomics, including the token utility and
 Practical bridge application scenarios and the benefits the bridge offers to users and businesses.
 ### [9. Risks and Challenges](./chapters/9.RisksAndChallenges.md)
 Here we speak about the potential risks, obstacles, and mitigation strategies.
-### 10. Conclusion
+### [10. Conclusion](./chapters/10.Conclusion.md)
 A brief summary of the present paper reiterating $Emmet.Finance$'s goals, and objectives towards bringing additional value to the crypto communities.
