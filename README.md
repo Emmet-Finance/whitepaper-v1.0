@@ -20,7 +20,7 @@ A step-by-step token transfer description including the `User`, `Relay-Validator
 In this part, we outline the anticipated security risks, vulnerabilities, exploits, and attacks alongside their mitigation strategies.
 ### [7. Governance and Tokenomics](./chapters/7.GovernanceAndTokenomics.md)
 Description of the $Emmet.Finance$'s tokenomics, including the token utility and distribution as well as the governance and the future development decision-making procedure.
-### 8. Application Scenarios and Use Cases
+### [8. Application Scenarios and Use Cases](./chapters/8.ApplicationScenarios.md)
 Practical bridge application scenarios and the benefits the bridge offers to users and businesses.
 ### 9. Roadmap
 In this part, we outline the timeline of the deliverables and milestones including the new features, enhancements, or integrations.
